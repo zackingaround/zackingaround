@@ -7,7 +7,7 @@
 <p align="center"><img width="1503" height="1535" alt="Senza_titolo_8_20250605210956 (1)" src="https://github.com/user-attachments/assets/279c8f7a-cf9b-4e7c-b9c5-f41b19b75005" />
 <p align="center"><img width="4500" height="4200" alt="primus" src="https://github.com/user-attachments/assets/4642117e-6db5-424f-aa87-f4ed570c3833" />
 <p align="center"><img width="1500" height="1500" alt="worm" src="https://github.com/user-attachments/assets/7d655f2d-24b5-446b-9d1a-b562b3c0e5b1" />
-<p align="center"><img width="1550" height="1122" alt="whitty" src="https://github.com/user-attachments/assets/f785b59a-0e97-4758-91fa-e854f36e8288" />
+<p align="center"><img width="1550" height="1122" alt="whitty" src="https://github.com/user-attachments/assets/f7888029-f7d4-4c80-85c0-def4cb2f3582" />
 <p align="center"><img width="1696" height="2052" alt="lud" src="https://github.com/user-attachments/assets/ce2de653-1116-43f8-b19a-9c29997748f3" />
 <p align="center"><img width="1000" height="1000" alt="andromeda" src="https://github.com/user-attachments/assets/9c93a890-e4c4-4690-a98b-3da802d907c1" />
 <p align="center"><img width="2000" height="2000" alt="andromeda" src="https://github.com/user-attachments/assets/bf09e639-134d-4e33-9825-767f2501d579" />
