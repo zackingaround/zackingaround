@@ -5,6 +5,7 @@
 <p align="center"><img width="954" height="860" alt="image - 2026-04-03T174400 503" src="https://github.com/user-attachments/assets/b2e0eab3-7597-4379-b7b7-119c43c12775" />
 <p align="center"><img width="2000" height="2000" alt="FEMTANYL" src="https://github.com/user-attachments/assets/dbe0a187-b8bf-4ce0-85c8-36039d4364ea" />
 <p align="center"><img width="1503" height="1535" alt="Senza_titolo_8_20250605210956 (1)" src="https://github.com/user-attachments/assets/279c8f7a-cf9b-4e7c-b9c5-f41b19b75005" />
+<p align="center"><img width="2000" height="2000" alt="Untitled636_20240719164117 (1)" src="https://github.com/user-attachments/assets/250f1ed0-5e1c-4e32-b98a-a9d73bc1d0ce" />
 <p align="center"><img width="4500" height="4200" alt="primus" src="https://github.com/user-attachments/assets/4642117e-6db5-424f-aa87-f4ed570c3833" />
 <p align="center"><img width="1500" height="1500" alt="worm" src="https://github.com/user-attachments/assets/7d655f2d-24b5-446b-9d1a-b562b3c0e5b1" />
 <p align="center"><img width="1550" height="1122" alt="whitty" src="https://github.com/user-attachments/assets/f7888029-f7d4-4c80-85c0-def4cb2f3582" />
