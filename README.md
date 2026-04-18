@@ -1,4 +1,4 @@
-? ignore how the first 2 drawings are stretched github is being an ass and i don't know how to fix it LOL i'm an artist not a coder, if you click them they should show up fine
+? ignore how the first 3 drawings are stretched github is being an ass and i don't know how to fix it LOL i'm an artist not a coder, if you click them they should show up fine
 <p align="center"><img width="2000" height="3000" alt="salvatore" src="https://github.com/user-attachments/assets/888b4ec8-2602-4874-8fe7-2b90f5e78e6a" />
 <p align="center"><img width="420" height="2020" alt="hm" src="https://github.com/user-attachments/assets/3bd902e5-0808-42c1-9307-a6df90370e66" /> <img width="420" height="2020" alt="hmm" src="https://github.com/user-attachments/assets/1a86d7ae-c734-426d-bd3c-0fb2dc416749" />
 <p align="center"><img width="3600" height="3600" alt="brine" src="https://github.com/user-attachments/assets/a011139a-d3bf-4e56-9ee4-6f40991f3710" />
