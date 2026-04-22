@@ -1,8 +1,6 @@
-? ignore how the 3rd and 4th drawings are stretched github is being an ass and i don't know how to fix it LOL i'm an artist not a coder, and no matter what size i make them or if i use other kinds of links they still refuse to work. if you click them they should show up fine
 <p align="center"><img width="2500" height="3400" alt="ellertrapped" src="https://github.com/user-attachments/assets/d159e047-188a-4fe0-beb1-014eef96878f" />
 <p align="center"><img width="2000" height="3000" alt="salvatore" src="https://github.com/user-attachments/assets/888b4ec8-2602-4874-8fe7-2b90f5e78e6a" />
-<p align="center"><img width="420" height="2020" alt="hm" src="https://github.com/user-attachments/assets/3bd902e5-0808-42c1-9307-a6df90370e66" />
-<p align="center"><img width="420" height="2020" alt="hmm" src="https://github.com/user-attachments/assets/1a86d7ae-c734-426d-bd3c-0fb2dc416749" />
+<p align="center"><img width="2000" height="3600" alt="isaac" src="https://github.com/user-attachments/assets/0ab3f988-58b9-4348-8b51-463ac8d89d1f" />
 <p align="center"><img width="3600" height="3600" alt="brine" src="https://github.com/user-attachments/assets/a011139a-d3bf-4e56-9ee4-6f40991f3710" />
 <p align="center"><img width="2000" height="2000" alt="blue" src="https://github.com/user-attachments/assets/34f637a9-3fc9-40ae-a9f5-d2ee0004850d" />
 <p align="center"><img width="595" height="926" alt="poober" src="https://github.com/user-attachments/assets/7004fde4-20e7-4e9a-bf62-b796f4217bdf" />
