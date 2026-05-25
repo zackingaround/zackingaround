@@ -1,3 +1,4 @@
+<p align="center"><a href="https://hits.sh/github.com/zackingaround/"><img alt="Hits" src="https://hits.sh/github.com/zackingaround.svg?style=for-the-badge&label=robux&color=830009&labelColor=000000"/></a>
 <p align="center"><img width="2500" alt="ellertrapped" src="https://github.com/user-attachments/assets/d159e047-188a-4fe0-beb1-014eef96878f" />
 <p align="center"><img width="2000" alt="salvatore" src="https://github.com/user-attachments/assets/888b4ec8-2602-4874-8fe7-2b90f5e78e6a" />
 <p align="center"><img width="420" alt="isaac" src="https://github.com/user-attachments/assets/0ab3f988-58b9-4348-8b51-463ac8d89d1f" /> <img width="420" alt="hmm" src="https://github.com/user-attachments/assets/fc24caf6-df7e-4cf9-9f38-bf052f7385e9" />
