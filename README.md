@@ -1,6 +1,6 @@
 <p align="center"><a href="https://hits.sh/github.com/zackingaround/"><img alt="Hits" src="https://hits.sh/github.com/zackingaround.svg?style=for-the-badge&label=robux&color=030C2D&labelColor=000000"/></a>
 
-<p align="center">$\color{#89AF9A}For \space the \space record \space my \space skins \space are \space NOT \space free \space to \space copy/use$
+<p align="center">$\color{#89AF9A}For \space the \space record \space my \space skins \space are \space NOT \space free \space to \space use$
 <p align="center">$\color{#549480}If \space you \space see \space them \space on \space Pinterest \space I \space did \space not \space give \space ANY \space permission \space for \space anyone \space to \space post \space them \space on \space there$
 <p align="center">$\color{#4A7B7C}Please \space do \space not \space copy \space my \space skins \space either, \space especially \space since \space most \space of \space them \space are \space my \space own \space interpretation \space of \space characters$
 <p align="center">$\color{#3E696F}Or \space straight \space up \space fictive \space skins \space which \space feel \space a \space lot \space more \space personal$
