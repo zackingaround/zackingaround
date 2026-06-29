@@ -2,6 +2,7 @@
 
 <p align="center">$\color{#89AF9A}For \space the \space record \space my \space skins \space are \space NOT \space free \space to \space use$
 <p align="center">$\color{#52917C}If \space you \space see \space them \space on \space Pinterest \space I \space did \space not \space give \space ANY \space permission \space for \space anyone \space to \space post \space them \space on \space there$
+<p align="center">$\color{#3E696F}Please \space do \space not \space copy \space my \space skins \space either, \space especially \space since \space most \space of \space them \space are \space my \space own \space interpretation \space of \space characters \space or \space straight \space up \space fictive \space skins$
 
 <p align="center"><img width="2500" alt="ellertrapped" src="https://github.com/user-attachments/assets/d159e047-188a-4fe0-beb1-014eef96878f" />
 <p align="center"><img width="2000" alt="salvatore" src="https://github.com/user-attachments/assets/888b4ec8-2602-4874-8fe7-2b90f5e78e6a" />
