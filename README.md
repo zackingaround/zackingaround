@@ -4,7 +4,7 @@
 <p align="center">$\color{#549480}If \space you \space see \space them \space on \space Pinterest \space I \space did \space not \space give \space ANY \space permission \space for \space anyone \space to \space post \space them \space on \space there$
 <p align="center">$\color{#4A7B7C}Please \space do \space not \space copy \space my \space skins \space either, \space especially \space since \space most \space of \space them \space are \space my \space own \space interpretation \space of \space characters$
 <p align="center">$\color{#3E696F}Or \space straight \space up \space fictive \space skins \space which \space feel \space a \space lot \space more \space personal$
-<p align="center">$\color{#375F6A}Please \space stop \space taking \space inspiration \space or \space downright \space copying \space my \space Mafioso \space skin \space oh \space my \space god \space I've \space had \space enough$
+<p align="center">$\color{#375F6A}Stop \space taking \space inspiration \space or \space downright \space copying \space my \space Mafioso \space skin \space oh \space my \space god \space I've \space had \space enough$
 <p align="center">$\color{#375F6A}$
 
 <p align="center"><img width="2500" alt="ellertrapped" src="https://github.com/user-attachments/assets/d159e047-188a-4fe0-beb1-014eef96878f" />
