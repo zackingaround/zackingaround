@@ -1,4 +1,4 @@
-<p align="center"><a href="https://hits.sh/github.com/zackingaround/"><img alt="Hits" src="https://hits.sh/github.com/zackingaround.svg?style=for-the-badge&label=robux&color=030C2D&labelColor=000000"/></a>
+<p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzackingaround"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzackingaround&label=ROBUX&labelColor=%23000000&countColor=%23070e2b&style=for-the-badge&labelStyle=none" /></a>
 
 <p align="center">$\color{#89AF9A}For \space the \space record \space my \space skins \space are \space NOT \space free \space to \space use$
 <p align="center">$\color{#549480}If \space you \space see \space them \space on \space Pinterest \space I \space did \space not \space give \space ANY \space permission \space for \space anyone \space to \space post \space them \space on \space there$
