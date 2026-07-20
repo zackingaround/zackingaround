@@ -39,14 +39,5 @@
   <p align="center"><img width="1550" alt="whitty" src="https://github.com/user-attachments/assets/f7888029-f7d4-4c80-85c0-def4cb2f3582" />
   <p align="center"><img width="1696" alt="lud" src="https://github.com/user-attachments/assets/ce2de653-1116-43f8-b19a-9c29997748f3" />
   <p align="center"><img width="1000" alt="andromeda" src="https://github.com/user-attachments/assets/9c93a890-e4c4-4690-a98b-3da802d907c1" />
-  <p align="center"><img width="2000" alt="andromeda" src="https://github.com/user-attachments/assets/bf09e639-134d-4e33-9825-767f2501d579" /> <img width="99" alt="tumblr_9ac5c0b2c29b6e9e2cd964ae4bdd4e3d_94208fdc_100" src="https://github.com/user-attachments/assets/c5c0ac8f-2890-4dc1-b3d8-3f7dd753ab9b" /> <img width="99" alt="tumblr_58d5ea628a1932624fc8e9d671a7cbd2_0c9801fa_100" src="https://github.com/user-attachments/assets/b6f34228-f9a3-4161-869f-115630a35806" /> <img width="99" alt="tumblr_5babeabf5b7917210ece7631e483d87b_a14217e8_100" src="https://github.com/user-attachments/assets/922f8f74-f1a1-42a6-92e2-ee3bf0553b17" /> <img width="99" alt="tumblr_68a7b4fd62dc196dd59270b091c1e1b0_ea79825f_100" src="https://github.com/user-attachments/assets/bd82125c-83ed-4326-81bf-522c3eca86cf" /> <img width="99" alt="tumblr_0ff9e2c420d4b1f028ff92d6e3fe189c_f1be5cc8_100" src="https://github.com/user-attachments/assets/7e79e24a-eb55-45e6-972e-43c993083603" /> <img width="99" alt="tumblr_714cae59f222d1df02332be799f9a6e1_9187354e_100" src="https://github.com/user-attachments/assets/071e057e-e1e1-4d71-b42c-3cca477e9e07" /> <img width="99" alt="tumblr_435f24821829d2f03a114e2e88822bf6_0105cc63_100" src="https://github.com/user-attachments/assets/e960b879-cf35-417e-8ce0-2926f279bb45" /> <img width="99" alt="tumblr_8c2348176a91d06b12eb40701c342552_eb66274e_100" src="https://github.com/user-attachments/assets/44333bb5-3030-4e08-9176-6193aebb840c" /> <img width="99" alt="tumblr_1483ac58d4b3faf9de9787b7513c52a1_422aabab_100" src="https://github.com/user-attachments/assets/af1086cc-b404-48e7-84c3-3814047d0528" />
-
-
-
-
-
-
-
-
-
+  <p align="center"><img width="2000" alt="andromeda" src="https://github.com/user-attachments/assets/bf09e639-134d-4e33-9825-767f2501d579" /> <img width="99"
 </details>
