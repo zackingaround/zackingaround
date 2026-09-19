@@ -1,12 +1,22 @@
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzackingaround"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzackingaround&label=ROBUX&labelColor=%23000000&countColor=%23070e2b&style=for-the-badge&labelStyle=none" /></a>
 
-<p align="center">$\color{#4A7B7C}For \space the \space record \space my \space skins \space are \space NOT \space free \space to \space use$
+<p align="center">$\color{#89AF9A}Remake \space Soon$
+
+<p align="center"><img width="400" alt="laçes" src="https://github.com/user-attachments/assets/0c3054ed-987e-4723-883c-cd52b53d1f78" />
+
+<!--FYI-->
+<div align="center">
+<details>
+  <summary>
+    $\color{#3E696F}FYI$
+  </summary>
+</p>
+    <p align="center">$\color{#4A7B7C}For \space the \space record \space my \space skins \space are \space NOT \space free \space to \space use$
 <p align="center">$\color{#549480}If \space you \space see \space them \space on \space Pinterest \space I \space did \space not \space give \space ANY \space permission \space for \space anyone \space to \space post \space them \space on \space there$
 <p align="center">$\color{#89AF9A}Please \space do \space not \space copy \space my \space skins \space either, \space especially \space since \space most \space of \space them \space are \space my \space own \space interpretation \space of \space characters$
 <p align="center">$\color{#549480}Or \space straight \space up \space fictive \space skins \space which \space feel \space a \space lot \space more \space personal$
 <p align="center">$\color{#4A7B7C}Next \space person \space that \space copies \space my \space Mafioso \space skin \space is \space getting \space slapped.\space It's \space my \space original \space concept, \space not \space yours. \space Make \space your \space own.$
-
-<p align="center"><img width="400" alt="laçes" src="https://github.com/user-attachments/assets/0c3054ed-987e-4723-883c-cd52b53d1f78" />
+</details>
 
 <!--BLINKIES/STAMPS-->
 <div align="center">
