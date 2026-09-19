@@ -8,7 +8,7 @@
 <div align="center">
 <details>
   <summary>
-    $\color{#3E696F}FYI$
+    $\color{#4A7B7C}FYI$
   </summary>
 </p>
     <p align="center">$\color{#4A7B7C}For \space the \space record \space my \space skins \space are \space NOT \space free \space to \space use$
