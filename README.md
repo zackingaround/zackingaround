@@ -1,6 +1,6 @@
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzackingaround"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzackingaround&label=ROBUX&labelColor=%23000000&countColor=%23070e2b&style=for-the-badge&labelStyle=none" /></a>
 
-<p align="center">$\color{#89AF9A}Remake \space Soon$
+<p align="center">$\color{#89AF9A}Update \space Soon$
 
 <p align="center"><img width="400" alt="laçes" src="https://github.com/user-attachments/assets/0c3054ed-987e-4723-883c-cd52b53d1f78" />
 
