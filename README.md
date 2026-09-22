@@ -1,4 +1,8 @@
+<!--VIEWS-->
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzackingaround"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzackingaround&label=ROBUX&labelColor=%23000000&countColor=%23070e2b&style=for-the-badge&labelStyle=none" /></a>
+
+<!--LYRICS-->
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=30&duration=1500&pause=500&color=89AF9A&center=true&vCenter=true&width=435&lines=That's+thievin'%2C+stealin';Takin'+what's+not+yours;Takin'+what's+not+yours;Takin'+what's+not+yours" alt="Typing SVG" /></a>
 
 <!--GRAPHIC 1-->
 <p align="center"><img width="500" alt="chance graphic 1" src="https://github.com/user-attachments/assets/92162ce1-2500-4642-8abd-b5211f252739" />
