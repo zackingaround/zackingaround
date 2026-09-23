@@ -10,6 +10,8 @@
 <!--LACES-->
 <p align="center"><img width="400" alt="laces" src="https://github.com/user-attachments/assets/5105989b-6e1f-437f-9770-ac8b672e0f6f" />
 
+<p align="center">$${\color{#335C6C}\textbf{╭┈┈┈┈┈╯}}{\color{#89AF9A}\textbf{✧}}{\color{#335C6C}\textbf{╰┈┈┈┈┈╮}}$$
+
 <!--INFO-->
 <div align="center">
 <details>
@@ -29,6 +31,8 @@
     <p align="center">$${\color{#89AF9A}\textbf{𝙄𝙣 𝙖 4 𝙮𝙚𝙖𝙧 𝙡𝙤𝙣𝙜 𝙧𝙚𝙡𝙖𝙩𝙞𝙤𝙣𝙨𝙝𝙞𝙥 !}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝘽𝙞𝙧𝙩𝙝𝙙𝙖𝙮 : 29/11/04}}$$
 </details>
+
+<p align="center">$${\color{#89AF9A}\textbf{୨✩୧
 
 <!--DNI-->
 <div align="center">
@@ -57,6 +61,8 @@
     <p align="center">$${\color{#4A7B7C}\textbf{𝙊𝙧 𝙨𝙩𝙧𝙖𝙞𝙜𝙝𝙩 𝙪𝙥 𝙛𝙞𝙘𝙩𝙞𝙫𝙚 𝙨𝙠𝙞𝙣𝙨 𝙬𝙝𝙞𝙘𝙝 𝙛𝙚𝙚𝙡 𝙖 𝙡𝙤𝙩 𝙢𝙤𝙧𝙚 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡}}$$
     <p align="center">$${\color{#4A7B7C}\textbf{𝙉𝙚𝙭𝙩 𝙥𝙚𝙧𝙨𝙤𝙣 𝙩𝙝𝙖𝙩 𝙘𝙤𝙥𝙞𝙚𝙨 𝙢𝙮 𝙈𝙖𝙛𝙞𝙤𝙨𝙤 𝙨𝙠𝙞𝙣 𝙞𝙨 𝙜𝙚𝙩𝙩𝙞𝙣𝙜 𝙨𝙡𝙖𝙥𝙥𝙚𝙙. 𝙄𝙩'𝙨 𝙢𝙮 𝙤𝙧𝙞𝙜𝙞𝙣𝙖𝙡 𝙘𝙤𝙣𝙘𝙚𝙥𝙩, 𝙣𝙤𝙩 𝙮𝙤𝙪𝙧𝙨. 𝙈𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣.}}$$
 </details>
+
+<p align="center">$${\color{#335C6C}\textbf{╰┈┈┈┈┈╮}}{\color{#89AF9A}\textbf{✧}}{\color{#335C6C}\textbf{╭┈┈┈┈┈╯}}$$
 
 <!--GRAPHIC 2-->
 <p align="center"><img width="700" alt="chance graphics 2" src="https://github.com/user-attachments/assets/27c97bc2-4651-46f3-ab52-7548d2582bdd" /> 
