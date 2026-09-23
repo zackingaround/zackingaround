@@ -32,8 +32,6 @@
     <p align="center">$${\color{#89AF9A}\textbf{𝘽𝙞𝙧𝙩𝙝𝙙𝙖𝙮 : 29/11/04}}$$
 </details>
 
-<p align="center">$${\color{#89AF9A}\textbf{୨✩୧
-
 <!--DNI-->
 <div align="center">
 <details>
