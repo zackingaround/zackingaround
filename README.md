@@ -33,7 +33,7 @@
     <p align="center">$${\color{#89AF9A}\textbf{(𝙈𝙮 𝙗𝙛 𝙖𝙣𝙙 𝙖 𝙛𝙚𝙬 𝙘𝙡𝙤𝙨𝙚 𝙛𝙧𝙞𝙚𝙣𝙙𝙨 𝙖𝙧𝙚 𝙩𝙝𝙚 𝙤𝙣𝙡𝙮 𝙚𝙭𝙘𝙚𝙥𝙩𝙞𝙤𝙣)}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝙄𝙩𝙖𝙡𝙞𝙖𝙣, 𝙗𝙪𝙩 𝙄 𝙙𝙤 𝙨𝙥𝙚𝙖𝙠 𝙀𝙣𝙜𝙡𝙞𝙨𝙝 𝙛𝙡𝙪𝙚𝙣𝙩𝙡𝙮}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝙄𝙣 𝙖 4 𝙮𝙚𝙖𝙧 𝙡𝙤𝙣𝙜 𝙧𝙚𝙡𝙖𝙩𝙞𝙤𝙣𝙨𝙝𝙞𝙥 !}}$$
-    <p align="center">$${\color{#89AF9A}\textbf{#𝙚𝙢𝙥𝙡𝙤𝙮𝙚𝙙}}$$
+    <p align="center">$${\color{#89AF9A}\textbf{𝙃𝙖𝙨𝙝𝙩𝙖𝙜 𝙚𝙢𝙥𝙡𝙤𝙮𝙚𝙙}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝘽𝙞𝙧𝙩𝙝𝙙𝙖𝙮 : 29/11/04}}$$
 </details>
 
