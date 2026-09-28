@@ -16,7 +16,7 @@
 <div align="center">
 <details>
   <summary>
-    $${\Huge\color{#89AF9A}\textbf{𝙄𝙉𝙁𝙊}}$$
+    $${\Large\color{#89AF9A}\textbf{𝙄𝙉𝙁𝙊}}$$
   </summary>
 </p>
 <div align= "center">
@@ -43,20 +43,36 @@
 
 <p align="center">$${\color{#4A7B7C}\textbf{⸝⸝⸝}}{\color{#549480}\textbf{୨}}{\color{#89AF9A}\textbf{✩}}{\color{#549480}\textbf{୧}}{\color{#4A7B7C}\textbf{⸝⸝⸝}}$$
 
+<!--INTERESTS-->
+<div align="center">
+<details>
+  <summary>
+    $${\Large\color{#549480}\textbf{𝙄𝙣𝙩𝙚𝙧𝙚𝙨𝙩𝙨}}$$
+  </summary>
+</p>
+    <p align="center">$${\color{#549480}\textbf{(𝙁𝙔𝙄 𝙄 𝙙𝙤𝙣'𝙩 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙖𝙣𝙮 𝙥𝙧𝙤𝙗𝙡𝙚𝙢𝙖𝙩𝙞𝙘 𝙘𝙧𝙚𝙖𝙩𝙤𝙧𝙨, 𝙄 𝙟𝙪𝙨𝙩 𝙚𝙣𝙟𝙤𝙮 𝙨𝙤𝙢𝙚 𝙤𝙛 𝙩𝙝𝙚 𝙘𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧𝙨)}}$$
+    <p align="center">$${\color{#549480}\textbf{𝙁𝙤𝙧𝙨𝙖𝙠𝙚𝙣, 𝘽𝙖𝙙 𝙏𝙝𝙞𝙣𝙜𝙨, 𝙍𝙤𝙗𝙡𝙤𝙭 𝙢𝙮𝙩𝙝𝙨/𝙝𝙖𝙘𝙠𝙚𝙧𝙨/𝙖𝙙𝙢𝙞𝙣𝙨, 𝙍𝙚𝙜𝙧𝙚𝙩𝙚𝙫𝙖𝙩𝙤𝙧}}$$
+    <p align="center">$${\color{#549480}\textbf{𝘽𝙡𝙤𝙘𝙠𝙩𝙖𝙡𝙚𝙨, 𝙈𝙖𝙮 𝙈𝙖𝙙𝙣𝙚𝙨𝙨 2012, 𝙍𝙖𝙞𝙣 𝙒𝙤𝙧𝙡𝙙, 𝘼 𝙍𝙚𝙂𝙚𝙘𝙩, 𝙐𝙣𝙙𝙚𝙧𝙩𝙖𝙡𝙚/𝘿𝙚𝙡𝙩𝙖𝙧𝙪𝙣𝙚 (𝘼𝙐𝙨 𝙞𝙣𝙘𝙡𝙪𝙙𝙚𝙙)}}$$
+    <p align="center">$${\color{#549480}\textbf{𝙖𝙣𝙩𝙝𝙧𝙤𝙥𝙤𝙢𝙤𝙧𝙥𝙝𝙞𝙘 𝙖𝙣𝙞𝙢𝙖𝙡𝙨, 𝙖𝙣𝙮 𝙆𝙞𝙧𝙗𝙮 𝙜𝙖𝙢𝙚, 𝙀𝙉𝘼 + 𝙀𝙉𝘼 𝘿𝙧𝙚𝙖𝙢 𝘽𝘽𝙌}}$$
+    <p align="center">$${\color{#549480}\textbf{𝙏𝙧𝙖𝙣𝙨𝙛𝙤𝙧𝙢𝙚𝙧𝙨, 𝙈𝙖𝙧𝙞𝙠𝙞𝙣 𝙊𝙣𝙡𝙞𝙣𝙚 4, 𝙖𝙣𝙖𝙡𝙤𝙜 𝙝𝙤𝙧𝙧𝙤𝙧/𝙬𝙚𝙞𝙧𝙙𝙘𝙤𝙧𝙚}}$$
+</details>
+
+<p align="center">$${\color{#4A7B7C}\textbf{⸝⸝⸝}}{\color{#549480}\textbf{୨}}{\color{#89AF9A}\textbf{✩}}{\color{#549480}\textbf{୧}}{\color{#4A7B7C}\textbf{⸝⸝⸝}}$$
+
 <!--DNI-->
 <div align="center">
 <details>
   <summary>
-    $${\Large\color{#549480}\textbf{𝘿𝙉𝙄}}$$
+    $${\Large\color{#4A7B7C}\textbf{𝘿𝙉𝙄}}$$
   </summary>
 </p>
-    <p align="center">$${\color{#549480}\textbf{𝙀𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙤𝙧 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙩𝙝𝙖𝙩 𝙪𝙨𝙚 𝙋𝙡𝙪𝙧𝙖𝙡𝙥𝙚𝙙𝙞𝙖. 𝙏𝙝𝙖𝙩 𝙨𝙞𝙩𝙚 𝙞𝙨 𝙖 𝙘𝙚𝙨𝙨𝙥𝙤𝙤𝙡 𝙛𝙪𝙡𝙡 𝙤𝙛 𝙢𝙞𝙨𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣}}$$
-    <p align="center">$${\color{#549480}\textbf{𝘼𝙣𝙙 𝙄 𝙬𝙞𝙡𝙡 𝙣𝙤𝙩 𝙩𝙧𝙪𝙨𝙩 𝙮𝙤𝙪 𝙤𝙧 𝙩𝙖𝙠𝙚 𝙮𝙤𝙪 𝙨𝙚𝙧𝙞𝙤𝙪𝙨𝙡𝙮 𝙞𝙛 𝙄 𝙛𝙞𝙣𝙙 𝙤𝙪𝙩 𝙮𝙤𝙪 𝙪𝙨𝙚 𝙞𝙩}}$$
-    <p align="center">$${\color{#549480}\textbf{𝙋𝙡𝙚𝙖𝙨𝙚 𝙪𝙨𝙚 𝙡𝙞𝙘𝙚𝙣𝙨𝙚𝙙 𝙢𝙚𝙙𝙞𝙘𝙖𝙡 𝙧𝙚𝙨𝙚𝙖𝙧𝙘𝙝 𝙖𝙣𝙙 𝙨𝙞𝙩𝙚𝙨 𝙞𝙣𝙨𝙩𝙚𝙖𝙙}}$$
-    <p align="center">$${\color{#549480}\textbf{𝙍𝙖𝙙𝙦𝙪𝙚𝙚𝙧𝙨. 𝙋𝙧𝙚𝙩𝙩𝙮 𝙢𝙪𝙘𝙝 𝙨𝙚𝙡𝙛 𝙚𝙭𝙥𝙡𝙖𝙣𝙖𝙩𝙤𝙧𝙮}}$$
-    <p align="center">$${\color{#549480}\textbf{𝙏.𝙍.𝘼.𝙎.𝙃. (𝙩𝙧𝙖𝙣𝙨𝙥𝙝𝙤𝙗𝙞𝙘, 𝙧𝙖𝙘𝙞𝙨𝙩, 𝙖𝙗𝙡𝙚𝙞𝙨𝙩, 𝙨𝙚𝙭𝙞𝙨𝙩, 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙘)}}$$
-    <p align="center">$${\color{#549480}\textbf{𝙋𝙚𝙤𝙥𝙡𝙚 𝙬𝙝𝙤 𝙝𝙖𝙧𝙧𝙖𝙨𝙨 𝙤𝙧 𝙢𝙖𝙠𝙚 𝙛𝙪𝙣 𝙤𝙛 𝙤𝙩𝙝𝙚𝙧𝙨 𝙛𝙤𝙧 𝙣𝙤 𝙧𝙚𝙖𝙨𝙤𝙣 𝙬𝙝𝙖𝙩𝙨𝙤𝙚𝙫𝙚𝙧}}$$
-    <p align="center">$${\color{#549480}\textbf{𝙋𝙚𝙤𝙥𝙡𝙚 𝙪𝙣𝙙𝙚𝙧 13, 𝙙𝙤𝙣'𝙩 𝙗𝙚 𝙨𝙚𝙭𝙪𝙖𝙡 𝙩𝙤𝙬𝙖𝙧𝙙𝙨 𝙢𝙚 𝙚𝙞𝙩𝙝𝙚𝙧 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪'𝙧𝙚 𝙖𝙗𝙤𝙫𝙚 18 𝙖𝙣𝙙 𝙖 𝙘𝙡𝙤𝙨𝙚 𝙛𝙧𝙞𝙚𝙣𝙙}}$$
+    <p align="center">$${\color{#4A7B7C}\textbf{𝙀𝙣𝙙𝙤𝙜𝙚𝙣𝙞𝙘 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙤𝙧 𝙨𝙮𝙨𝙩𝙚𝙢𝙨 𝙩𝙝𝙖𝙩 𝙪𝙨𝙚 𝙋𝙡𝙪𝙧𝙖𝙡𝙥𝙚𝙙𝙞𝙖. 𝙏𝙝𝙖𝙩 𝙨𝙞𝙩𝙚 𝙞𝙨 𝙖 𝙘𝙚𝙨𝙨𝙥𝙤𝙤𝙡 𝙛𝙪𝙡𝙡 𝙤𝙛 𝙢𝙞𝙨𝙞𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙤𝙣}}$$
+    <p align="center">$${\color{#4A7B7C}\textbf{𝘼𝙣𝙙 𝙄 𝙬𝙞𝙡𝙡 𝙣𝙤𝙩 𝙩𝙧𝙪𝙨𝙩 𝙮𝙤𝙪 𝙤𝙧 𝙩𝙖𝙠𝙚 𝙮𝙤𝙪 𝙨𝙚𝙧𝙞𝙤𝙪𝙨𝙡𝙮 𝙞𝙛 𝙄 𝙛𝙞𝙣𝙙 𝙤𝙪𝙩 𝙮𝙤𝙪 𝙪𝙨𝙚 𝙞𝙩}}$$
+    <p align="center">$${\color{#4A7B7C}\textbf{𝙋𝙡𝙚𝙖𝙨𝙚 𝙪𝙨𝙚 𝙡𝙞𝙘𝙚𝙣𝙨𝙚𝙙 𝙢𝙚𝙙𝙞𝙘𝙖𝙡 𝙧𝙚𝙨𝙚𝙖𝙧𝙘𝙝 𝙖𝙣𝙙 𝙨𝙞𝙩𝙚𝙨 𝙞𝙣𝙨𝙩𝙚𝙖𝙙}}$$
+    <p align="center">$${\color{#4A7B7C}\textbf{𝙍𝙖𝙙𝙦𝙪𝙚𝙚𝙧𝙨. 𝙋𝙧𝙚𝙩𝙩𝙮 𝙢𝙪𝙘𝙝 𝙨𝙚𝙡𝙛 𝙚𝙭𝙥𝙡𝙖𝙣𝙖𝙩𝙤𝙧𝙮}}$$
+    <p align="center">$${\color{#4A7B7C}\textbf{𝙏.𝙍.𝘼.𝙎.𝙃. (𝙩𝙧𝙖𝙣𝙨𝙥𝙝𝙤𝙗𝙞𝙘, 𝙧𝙖𝙘𝙞𝙨𝙩, 𝙖𝙗𝙡𝙚𝙞𝙨𝙩, 𝙨𝙚𝙭𝙞𝙨𝙩, 𝙝𝙤𝙢𝙤𝙥𝙝𝙤𝙗𝙞𝙘)}}$$
+    <p align="center">$${\color{#4A7B7C}\textbf{𝙋𝙚𝙤𝙥𝙡𝙚 𝙬𝙝𝙤 𝙝𝙖𝙧𝙧𝙖𝙨𝙨 𝙤𝙧 𝙢𝙖𝙠𝙚 𝙛𝙪𝙣 𝙤𝙛 𝙤𝙩𝙝𝙚𝙧𝙨 𝙛𝙤𝙧 𝙣𝙤 𝙧𝙚𝙖𝙨𝙤𝙣 𝙬𝙝𝙖𝙩𝙨𝙤𝙚𝙫𝙚𝙧}}$$
+    <p align="center">$${\color{#4A7B7C}\textbf{𝙋𝙚𝙤𝙥𝙡𝙚 𝙪𝙣𝙙𝙚𝙧 13, 𝙙𝙤𝙣'𝙩 𝙗𝙚 𝙨𝙚𝙭𝙪𝙖𝙡 𝙩𝙤𝙬𝙖𝙧𝙙𝙨 𝙢𝙚 𝙚𝙞𝙩𝙝𝙚𝙧 𝙪𝙣𝙡𝙚𝙨𝙨 𝙮𝙤𝙪'𝙧𝙚 𝙖𝙗𝙤𝙫𝙚 18 𝙖𝙣𝙙 𝙖 𝙘𝙡𝙤𝙨𝙚 𝙛𝙧𝙞𝙚𝙣𝙙}}$$
 </details>
 
 <p align="center">$${\color{#4A7B7C}\textbf{⸝⸝⸝}}{\color{#549480}\textbf{୨}}{\color{#89AF9A}\textbf{✩}}{\color{#549480}\textbf{୧}}{\color{#4A7B7C}\textbf{⸝⸝⸝}}$$
@@ -65,15 +81,15 @@
 <div align="center">
 <details>
   <summary>
-    $${\color{#4A7B7C}\textbf{𝙁𝙔𝙄}}$$
+    $${\Large\color{#325C66}\textbf{𝙁𝙔𝙄}}$$
   </summary>
 </p>
-    <p align="center">$${\color{#4A7B7C}\textbf{𝙁𝙤𝙧 𝙩𝙝𝙚 𝙧𝙚𝙘𝙤𝙧𝙙 𝙢𝙮 𝙨𝙠𝙞𝙣𝙨 𝙖𝙧𝙚 𝙉𝙊𝙏 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙪𝙨𝙚}}$$
-    <p align="center">$${\color{#4A7B7C}\textbf{𝙄𝙛 𝙮𝙤𝙪 𝙨𝙚𝙚 𝙩𝙝𝙚𝙢 𝙤𝙣 𝙋𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙄 𝙙𝙞𝙙 𝙣𝙤𝙩 𝙜𝙞𝙫𝙚 𝘼𝙉𝙔 𝙥𝙚𝙧𝙢𝙞𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙖𝙣𝙮𝙤𝙣𝙚 𝙩𝙤 𝙥𝙤𝙨𝙩 𝙩𝙝𝙚𝙢 𝙤𝙣 𝙩𝙝𝙚𝙧𝙚}}$$
-    <p align="center">$${\color{#4A7B7C}\textbf{𝙋𝙡𝙚𝙖𝙨𝙚 𝙙𝙤 𝙣𝙤𝙩 𝙘𝙤𝙥𝙮 𝙢𝙮 𝙨𝙠𝙞𝙣𝙨 𝙚𝙞𝙩𝙝𝙚𝙧, 𝙤𝙧 𝙩𝙖𝙠𝙚 𝙞𝙣𝙨𝙥𝙞𝙧𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙩𝙝𝙤𝙪𝙩 𝙖𝙨𝙠𝙞𝙣𝙜. 𝙄𝙩'𝙨 𝙣𝙤𝙩 𝙩𝙝𝙖𝙩 𝙝𝙖𝙧𝙙 𝙩𝙤 𝙖𝙨𝙠}}$$
-    <p align="center">$${\color{#4A7B7C}\textbf{𝙀𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙨𝙞𝙣𝙘𝙚 𝙢𝙤𝙨𝙩 𝙤𝙛 𝙩𝙝𝙚𝙢 𝙖𝙧𝙚 𝙢𝙮 𝙤𝙬𝙣 𝙞𝙣𝙩𝙚𝙧𝙥𝙧𝙚𝙩𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙘𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧𝙨}}$$
-    <p align="center">$${\color{#4A7B7C}\textbf{𝙊𝙧 𝙨𝙩𝙧𝙖𝙞𝙜𝙝𝙩 𝙪𝙥 𝙛𝙞𝙘𝙩𝙞𝙫𝙚 𝙨𝙠𝙞𝙣𝙨 𝙬𝙝𝙞𝙘𝙝 𝙛𝙚𝙚𝙡 𝙖 𝙡𝙤𝙩 𝙢𝙤𝙧𝙚 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡}}$$
-    <p align="center">$${\color{#4A7B7C}\textbf{𝙉𝙚𝙭𝙩 𝙥𝙚𝙧𝙨𝙤𝙣 𝙩𝙝𝙖𝙩 𝙘𝙤𝙥𝙞𝙚𝙨 𝙢𝙮 𝙈𝙖𝙛𝙞𝙤𝙨𝙤 𝙨𝙠𝙞𝙣 𝙞𝙨 𝙜𝙚𝙩𝙩𝙞𝙣𝙜 𝙨𝙡𝙖𝙥𝙥𝙚𝙙. 𝙄𝙩'𝙨 𝙢𝙮 𝙤𝙧𝙞𝙜𝙞𝙣𝙖𝙡 𝙘𝙤𝙣𝙘𝙚𝙥𝙩, 𝙣𝙤𝙩 𝙮𝙤𝙪𝙧𝙨. 𝙈𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣.}}$$
+    <p align="center">$${\color{#325C66}\textbf{𝙁𝙤𝙧 𝙩𝙝𝙚 𝙧𝙚𝙘𝙤𝙧𝙙 𝙢𝙮 𝙨𝙠𝙞𝙣𝙨 𝙖𝙧𝙚 𝙉𝙊𝙏 𝙛𝙧𝙚𝙚 𝙩𝙤 𝙪𝙨𝙚}}$$
+    <p align="center">$${\color{#325C66}\textbf{𝙄𝙛 𝙮𝙤𝙪 𝙨𝙚𝙚 𝙩𝙝𝙚𝙢 𝙤𝙣 𝙋𝙞𝙣𝙩𝙚𝙧𝙚𝙨𝙩 𝙄 𝙙𝙞𝙙 𝙣𝙤𝙩 𝙜𝙞𝙫𝙚 𝘼𝙉𝙔 𝙥𝙚𝙧𝙢𝙞𝙨𝙨𝙞𝙤𝙣 𝙛𝙤𝙧 𝙖𝙣𝙮𝙤𝙣𝙚 𝙩𝙤 𝙥𝙤𝙨𝙩 𝙩𝙝𝙚𝙢 𝙤𝙣 𝙩𝙝𝙚𝙧𝙚}}$$
+    <p align="center">$${\color{#325C66}\textbf{𝙋𝙡𝙚𝙖𝙨𝙚 𝙙𝙤 𝙣𝙤𝙩 𝙘𝙤𝙥𝙮 𝙢𝙮 𝙨𝙠𝙞𝙣𝙨 𝙚𝙞𝙩𝙝𝙚𝙧, 𝙤𝙧 𝙩𝙖𝙠𝙚 𝙞𝙣𝙨𝙥𝙞𝙧𝙖𝙩𝙞𝙤𝙣 𝙬𝙞𝙩𝙝𝙤𝙪𝙩 𝙖𝙨𝙠𝙞𝙣𝙜. 𝙄𝙩'𝙨 𝙣𝙤𝙩 𝙩𝙝𝙖𝙩 𝙝𝙖𝙧𝙙 𝙩𝙤 𝙖𝙨𝙠}}$$
+    <p align="center">$${\color{#325C66}\textbf{𝙀𝙨𝙥𝙚𝙘𝙞𝙖𝙡𝙡𝙮 𝙨𝙞𝙣𝙘𝙚 𝙢𝙤𝙨𝙩 𝙤𝙛 𝙩𝙝𝙚𝙢 𝙖𝙧𝙚 𝙢𝙮 𝙤𝙬𝙣 𝙞𝙣𝙩𝙚𝙧𝙥𝙧𝙚𝙩𝙖𝙩𝙞𝙤𝙣 𝙤𝙛 𝙘𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧𝙨}}$$
+    <p align="center">$${\color{#325C66}\textbf{𝙊𝙧 𝙨𝙩𝙧𝙖𝙞𝙜𝙝𝙩 𝙪𝙥 𝙛𝙞𝙘𝙩𝙞𝙫𝙚 𝙨𝙠𝙞𝙣𝙨 𝙬𝙝𝙞𝙘𝙝 𝙛𝙚𝙚𝙡 𝙖 𝙡𝙤𝙩 𝙢𝙤𝙧𝙚 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙡}}$$
+    <p align="center">$${\color{#325C66}\textbf{𝙉𝙚𝙭𝙩 𝙥𝙚𝙧𝙨𝙤𝙣 𝙩𝙝𝙖𝙩 𝙘𝙤𝙥𝙞𝙚𝙨 𝙢𝙮 𝙈𝙖𝙛𝙞𝙤𝙨𝙤 𝙨𝙠𝙞𝙣 𝙞𝙨 𝙜𝙚𝙩𝙩𝙞𝙣𝙜 𝙨𝙡𝙖𝙥𝙥𝙚𝙙. 𝙄𝙩'𝙨 𝙢𝙮 𝙤𝙧𝙞𝙜𝙞𝙣𝙖𝙡 𝙘𝙤𝙣𝙘𝙚𝙥𝙩, 𝙣𝙤𝙩 𝙮𝙤𝙪𝙧𝙨. 𝙈𝙖𝙠𝙚 𝙮𝙤𝙪𝙧 𝙤𝙬𝙣.}}$$
 </details>
 
 <p align="center">$${\color{#335C6C}\textbf{╰┈┈┈┈╮}}{\color{#89AF9A}\textbf{✩}}{\color{#335C6C}\textbf{╭┈┈┈┈╯}}$$
@@ -100,7 +116,7 @@
 <div align="center">
 <details>
   <summary>
-    $${\color{#549480}\textbf{𝙎𝙤𝙢𝙚 𝙤𝙛 𝙢𝙮 𝘼𝙧𝙩}}$$
+    $${\Large\color{#549480}\textbf{𝙎𝙤𝙢𝙚 𝙤𝙛 𝙢𝙮 𝘼𝙧𝙩}}$$
   </summary>
 </p>
   <p align="center"><img width="2500" alt="ellertrapped" src="https://github.com/user-attachments/assets/d159e047-188a-4fe0-beb1-014eef96878f" />
