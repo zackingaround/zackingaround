@@ -94,11 +94,6 @@
 
 <p align="center">$${\color{#335C6C}\textbf{╰┈┈┈┈╮}}{\color{#89AF9A}\textbf{✩}}{\color{#335C6C}\textbf{╭┈┈┈┈╯}}$$
 
-<!--ATABOOK + TUMBLR-->
-<div align= "center">
-
-[<img width="200" alt="ata" src="https://github.com/user-attachments/assets/663f44e1-e6ea-4a6d-b394-3fc3823b4ffd" />]([https://icd.who.int/browse/2026-01/mms/en#988400777](https://zackingaround.atabook.org/))ㅤㅤㅤ[<img width="177.1" alt="tumblr" src="https://github.com/user-attachments/assets/ff4fe917-5060-4adc-bda7-4cac1404af8d" />](https://www.tumblr.com/ddino-nugget)
-
 <!--GRAPHIC 2-->
 <p align="center"><img width="700" alt="chance graphics 2" src="https://github.com/user-attachments/assets/27c97bc2-4651-46f3-ab52-7548d2582bdd" /> 
 
