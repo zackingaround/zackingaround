@@ -1,6 +1,13 @@
 <!--VIEWS-->
 <p align="center"><a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fzackingaround"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fzackingaround&label=ROBUX&labelColor=%23000000&countColor=%23070e2b&style=for-the-badge&labelStyle=none" /></a>
 
+<p align="center">$${\color{#89AF9A}\textbf{𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 !}}$$
+<div align= "center">
+
+[@𝙨𝙝𝙞𝙥-𝙩𝙤𝙬𝙣](https://github.com/ship-town) [@𝙙𝙖𝙜𝙜𝙚𝙧𝙨𝙩𝙧𝙪𝙘𝙠𝙢𝙖𝙜𝙚](https://github.com/daggerstruckmage)
+
+<p align="center">ㅤ
+
 <!--LYRICS-->
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&duration=1700&pause=1700&color=89AF9A&width=435&lines=Take+a+chance+with+Chance%2C+baby!" alt="Typing SVG" /></a>
 
