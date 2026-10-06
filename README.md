@@ -11,7 +11,6 @@
 <!--GRAPHIC 1-->
 <p align="center"><img width="650" alt="chancey" src="https://github.com/user-attachments/assets/c63fe0c5-b3fb-4556-9cce-46b49accb757" />
 
-
 <!--LACES-->
 <p align="center"><img width="400" alt="laces" src="https://github.com/user-attachments/assets/5105989b-6e1f-437f-9770-ac8b672e0f6f" />
 
@@ -108,7 +107,7 @@
 <p align="center"><img width="200" alt="clovers" src="https://github.com/user-attachments/assets/8d16b1ea-2914-42f1-bfaf-6350d815401a" />
 
 <!--GRAPHIC 2-->
-<p align="center"><img width="800" alt="chance graphics 2" src="https://github.com/user-attachments/assets/27c97bc2-4651-46f3-ab52-7548d2582bdd" /> 
+<p align="center"><img width="800" alt="chance graphics 3" src="https://github.com/user-attachments/assets/a88881a6-8c94-45fb-911d-926e38a9209f" />
 
 <!--LACES-->
 <p align="center"><img width="400" alt="laces" src="https://github.com/user-attachments/assets/5105989b-6e1f-437f-9770-ac8b672e0f6f" />
