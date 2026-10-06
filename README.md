@@ -6,13 +6,9 @@
 
 [@𝙨𝙝𝙞𝙥-𝙩𝙤𝙬𝙣](https://github.com/ship-town) [@𝙙𝙖𝙜𝙜𝙚𝙧𝙨𝙩𝙧𝙪𝙘𝙠𝙢𝙖𝙜𝙚](https://github.com/daggerstruckmage)
 
-<p align="center">ㅤ
-
-<!--LYRICS-->
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rye&size=24&duration=1700&pause=1700&color=89AF9A&width=435&lines=Take+a+chance+with+Chance%2C+baby!" alt="Typing SVG" /></a>
-
 <!--GRAPHIC 1-->
-<p align="center"><img width="500" alt="chance graphic 1" src="https://github.com/user-attachments/assets/92162ce1-2500-4642-8abd-b5211f252739" />
+<p align="center"><img width="800" alt="chancey" src="https://github.com/user-attachments/assets/c63fe0c5-b3fb-4556-9cce-46b49accb757" />
+
 
 <!--LACES-->
 <p align="center"><img width="400" alt="laces" src="https://github.com/user-attachments/assets/5105989b-6e1f-437f-9770-ac8b672e0f6f" />
