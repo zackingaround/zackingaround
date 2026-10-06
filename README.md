@@ -7,7 +7,7 @@
 [@𝙨𝙝𝙞𝙥-𝙩𝙤𝙬𝙣](https://github.com/ship-town) [@𝙙𝙖𝙜𝙜𝙚𝙧𝙨𝙩𝙧𝙪𝙘𝙠𝙢𝙖𝙜𝙚](https://github.com/daggerstruckmage)
 
 <!--GRAPHIC 1-->
-<p align="center"><img width="800" alt="chancey" src="https://github.com/user-attachments/assets/c63fe0c5-b3fb-4556-9cce-46b49accb757" />
+<p align="center"><img width="650" alt="chancey" src="https://github.com/user-attachments/assets/c63fe0c5-b3fb-4556-9cce-46b49accb757" />
 
 
 <!--LACES-->
