@@ -9,7 +9,7 @@
 <p align="center">ㅤ
 
 <!--GRAPHIC 1-->
-<p align="center"><img width="650" alt="graphic 1" src="https://github.com/user-attachments/assets/67a60363-fa74-4719-978f-b9d2eaa6ca91" />
+<p align="center"><img width="650" alt="graphic 1" src="https://github.com/user-attachments/assets/7b569709-4872-4377-bfac-d1019c54a312" />
 
 <!--LACES-->
 <p align="center"><img width="400" alt="laces" src="https://github.com/user-attachments/assets/5105989b-6e1f-437f-9770-ac8b672e0f6f" />
@@ -109,7 +109,7 @@
 <p align="center"><img width="200" alt="clovers" src="https://github.com/user-attachments/assets/8d16b1ea-2914-42f1-bfaf-6350d815401a" />
 
 <!--GRAPHIC 2-->
-<p align="center"><img width="800" alt="graphic 2" src="https://github.com/user-attachments/assets/cad29d44-6d41-4a6d-bdc1-bdc8e803621f" />
+<p align="center"><img width="800" alt="graphic 2" src="https://github.com/user-attachments/assets/09e30373-022f-4364-afe8-2ef88c7ab2e9" />
 
 <!--LACES-->
 <p align="center"><img width="400" alt="laces" src="https://github.com/user-attachments/assets/5105989b-6e1f-437f-9770-ac8b672e0f6f" />
