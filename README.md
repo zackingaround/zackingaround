@@ -20,7 +20,7 @@
 <div align="center">
 <details>
   <summary>
-    $${\Large\color{#89AF9A}\textbf{𝙄𝙉𝙁𝙊}}$$
+    $${\Large\color{#89AF9A}\textbf{𝙄𝙣𝙛𝙤}}$$
   </summary>
 </p>
 <div align= "center">
