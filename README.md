@@ -28,6 +28,7 @@
 [𝙋-𝘿𝙄𝘿](https://icd.who.int/browse/2026-01/mms/en#988400777) $${\color{#89AF9A}\textbf{+}}$$ [𝘼𝙪](https://icd.who.int/browse/2026-01/mms/en#437815624) [𝘿𝙃𝘿](https://icd.who.int/browse/2026-01/mms/en#821852937) $${\color{#89AF9A}\textbf{◁╯ (𝙡𝙞𝙣𝙠𝙨 𝙩𝙤 𝙩𝙝𝙚 𝙄𝘾𝘿-11)}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝙄'𝙢 𝙖 21 𝙮𝙚𝙖𝙧 𝙤𝙡𝙙 𝙜𝙖𝙮 𝙩𝙧𝙖𝙣𝙨 𝙢𝙖𝙣 𝙬𝙞𝙩𝙝 𝙞𝙙𝙚𝙣𝙩𝙞𝙩𝙮 𝙞𝙨𝙨𝙪𝙚𝙨, 𝙄 𝙩𝙚𝙣𝙙 𝙩𝙤 𝙪𝙨𝙚 𝙘𝙝𝙖𝙧𝙖𝙘𝙩𝙚𝙧𝙨 𝙩𝙤 𝙚𝙭𝙥𝙧𝙚𝙨𝙨 𝙢𝙮𝙨𝙚𝙡𝙛 𝙗𝙚𝙩𝙩𝙚𝙧}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝙄 𝙙𝙤 𝙚𝙣𝙟𝙤𝙮 𝙗𝙚𝙞𝙣𝙜 𝙩𝙧𝙚𝙖𝙩𝙚𝙙 𝙡𝙞𝙠𝙚 𝙢𝙮 𝙠𝙞𝙣𝙨/𝙘'𝙡𝙨 𝙖𝙣𝙙 𝙮𝙚𝙨, 𝙄 𝙖𝙢 𝙛𝙪𝙡𝙡𝙮 𝙖𝙬𝙖𝙧𝙚 𝙄'𝙢 𝙣𝙤𝙩 𝙩𝙝𝙚𝙢}}$$
+    <p align="center">$${\color{#89AF9A}\textbf{𝙏𝙝𝙚𝙮 𝙝𝙖𝙫𝙚 𝙣𝙤𝙩𝙝𝙞𝙣𝙜 𝙩𝙤 𝙙𝙤 𝙬𝙞𝙩𝙝 𝙢𝙮 𝙨𝙮𝙨𝙩𝙚𝙢 𝙗𝙮 𝙩𝙝𝙚 𝙬𝙖𝙮}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝙄𝙩𝙖𝙡𝙞𝙖𝙣, 𝙗𝙪𝙩 𝙄 𝙙𝙤 𝙨𝙥𝙚𝙖𝙠 𝙀𝙣𝙜𝙡𝙞𝙨𝙝 𝙛𝙡𝙪𝙚𝙣𝙩𝙡𝙮}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝘿𝙞𝙜𝙞𝙩𝙖𝙡 𝙖𝙧𝙩𝙞𝙨𝙩 𝙤𝙛 7 𝙮𝙚𝙖𝙧𝙨 𝙖𝙡𝙩𝙝𝙤𝙪𝙜𝙝 𝙄 𝙛𝙞𝙣𝙞𝙨𝙝 𝙖 𝙙𝙧𝙖𝙬𝙞𝙣𝙜 𝙚𝙫𝙚𝙧𝙮 𝙛𝙚𝙬 𝙢𝙤𝙣𝙩𝙝𝙨}}$$
     <p align="center">$${\color{#89AF9A}\textbf{𝙄𝙣 𝙖 4 𝙮𝙚𝙖𝙧 𝙡𝙤𝙣𝙜 𝙧𝙚𝙡𝙖𝙩𝙞𝙤𝙣𝙨𝙝𝙞𝙥 !}}$$
